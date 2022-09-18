@@ -1,0 +1,15 @@
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\bin\Debug\net6.0\Examples005_Cond.exe
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\bin\Debug\net6.0\Examples005_Cond.deps.json
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\bin\Debug\net6.0\Examples005_Cond.runtimeconfig.json
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\bin\Debug\net6.0\Examples005_Cond.dll
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\bin\Debug\net6.0\Examples005_Cond.pdb
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.csproj.AssemblyReference.cache
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.AssemblyInfoInputs.cache
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.AssemblyInfo.cs
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.csproj.CoreCompileInputs.cache
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.dll
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\refint\Examples005_Cond.dll
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.pdb
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\Examples005_Cond.genruntimeconfig.cache
+C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples005_Cond\obj\Debug\net6.0\ref\Examples005_Cond.dll
