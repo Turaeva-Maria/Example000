@@ -1,5 +1,0 @@
-C:\Users\turae\OneDrive\Рабочий стол\Examples\obj\Debug\net6.0\Examples.csproj.AssemblyReference.cache
-C:\Users\turae\OneDrive\Рабочий стол\Examples\obj\Debug\net6.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\turae\OneDrive\Рабочий стол\Examples\obj\Debug\net6.0\Examples.AssemblyInfoInputs.cache
-C:\Users\turae\OneDrive\Рабочий стол\Examples\obj\Debug\net6.0\Examples.AssemblyInfo.cs
-C:\Users\turae\OneDrive\Рабочий стол\Examples\obj\Debug\net6.0\Examples.csproj.CoreCompileInputs.cache

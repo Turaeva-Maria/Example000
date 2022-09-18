@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Examples
-build_property.ProjectDir = C:\Users\turae\OneDrive\Рабочий стол\Examples\
+build_property.RootNamespace = Examples006_Base
+build_property.ProjectDir = C:\Users\turae\OneDrive\Рабочий стол\Examples\Examples006_Base\

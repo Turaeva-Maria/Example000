@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples.csproj": {}
+    "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples006_Base\\Examples006_Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples.csproj": {
+    "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples006_Base\\Examples006_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples.csproj",
-        "projectName": "Examples",
-        "projectPath": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples.csproj",
+        "projectUniqueName": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples006_Base\\Examples006_Base.csproj",
+        "projectName": "Examples006_Base",
+        "projectPath": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples006_Base\\Examples006_Base.csproj",
         "packagesPath": "C:\\Users\\turae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\obj\\",
+        "outputPath": "C:\\Users\\turae\\OneDrive\\Рабочий стол\\Examples\\Examples006_Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\turae\\AppData\\Roaming\\NuGet\\NuGet.Config"
